@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @yasuomaidana
-- 👀 I’m interested in backend development using java, machine learning using python, microcontrollers (I want to program arduinos and pics), and electronics. I love engineering stuffs and I also have an interest in education
-- 💻 I like frontend development using angular
-- 🌱 I’m currently learning how to program in java :D 
-- 📖 I'm looking for a master's position, I'm interested in power electronics and machine learning.
-- Countries of interests 🇯🇵🇨🇦🇲🇽🇦
+- 👀 I’m interested in backend development, machine learning, microcontrollers (I want to program Arduinos and PICs), and electronics. I love engineering stuff, and I also have an interest in education
+- 💻 I like frontend development using React.
+- 🌱 I’m currently learning to program in Rust, and I love it.
+- I'm also into computer vision and OCR
+- 📖 I'm looking for a PhD position. I'm interested in 3D-printed power electronics and machine learning.
+- Countries of interest 🇯🇵🇨🇦🇲🇽
+
+[Personal website](http://vulpuxmecatroncus.com/)
+
+[LinkedIn](https://www.linkedin.com/in/yasuo-maidana/) 
 
 <!---
 yasuomaidana/yasuomaidana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
